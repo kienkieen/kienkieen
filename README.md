@@ -6,29 +6,28 @@ I'm a passionate developer who loves working on various projects ranging from **
 ---
 
 ## 🔭 Currently Working On:
-- Developing a **Healthcare App** using **Flutter** that helps people track their health.
+- Developing a **MediHub App** using **Flutter** that helps people track their health.
 - Exploring the power of **AI & Machine Learning** in real-world applications.
 
 ## 🌱 Currently Learning:
 - Deep learning with **TensorFlow** and **PyTorch**.
 - Advanced **Flutter** techniques and state management approaches.
-- Exploring **Cloud Computing** and **AWS**.
+- Exploring **Cloud Computing**.
 
 ## 👯 Looking to Collaborate On:
-- **Open Source Projects** related to **Flutter** and **Mobile Development**.
-- **Machine Learning** and **AI-based applications**.
+- **Open Source Projects** related to **Web**, **Flutter** and **Mobile Development**.
 
 ## 🤔 I’m looking for help with:
 - **Deep Learning Projects** for medical image analysis (such as **Lung Cancer Detection**).
 - **Deployment** and scaling of **Flutter** apps on the cloud.
 
 ## 💬 Ask me about:
-- **Flutter** development, **Dart**, and **State Management**.
+- **Flutter** development, **Dart**.
 - **Machine Learning** applications and **AI** in healthcare.
 - Best practices for writing clean and maintainable code.
 
 ## 📫 How to reach me:
-- Email: [trungkiena1206052004@gmail.com]
+- Email: [-----------------@gmail.com]
 
 
 ## 😄 Pronouns:
