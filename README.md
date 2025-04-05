@@ -28,7 +28,7 @@ I'm a passionate developer who loves working on various projects ranging from **
 - Best practices for writing clean and maintainable code.
 
 ## 📫 How to reach me:
-- Email: [your-email@example.com](mailto:trungkiena1206052004@gmail.com)
+- Email: [trungkiena1206052004@gmail.com]
 
 
 ## 😄 Pronouns:
