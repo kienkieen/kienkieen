@@ -27,7 +27,7 @@ I'm a passionate developer who loves working on various projects ranging from **
 - Best practices for writing clean and maintainable code.
 
 ## 📫 How to reach me:
-- Email: [-----------------@gmail.com]
+- Email: [kienlt654@gmail.com]
 
 
 ## 😄 Pronouns:
