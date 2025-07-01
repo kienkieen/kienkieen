@@ -47,10 +47,10 @@ I'm a passionate developer who loves working on various projects ranging from **
 
 ## 🔧 Tools and Technologies I Use:
 
-- **Languages**: Python, Dart (Flutter), JavaScript, HTML/CSS
-- **Frameworks**: Flutter, TensorFlow, PyTorch
+- **Languages**: Python, Dart (Flutter), C/C++, C# ,JavaScript, HTML/CSS
+- **Frameworks**: Flutter, ASP.Net, TensorFlow, PyTorch
 - **Tools**: Git, Firebase
-- **Databases**: PostgreSQL, MySQL, SQL server, Oracle
+- **Databases**: PostgreSQL, SQL server, Oracle
 
 ---
 
